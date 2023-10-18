@@ -1,4 +1,4 @@
-# Min-Heap
+# Animated Waves
 
 ## Preview:
 ![preview](preview.png)
